@@ -2,14 +2,13 @@ import java.util.Scanner;
 
 public class chineseZodiac {
     public static void main(String[] args) {
-        int birth_year,chinese_zodiac,horoscope;
-        System.out.print("Please enter your birth year: ");
+        int birth_year,chinese_zodiac;
         Scanner inp = new Scanner(System.in);
+        System.out.print("Please enter your birth year: ");
         birth_year= inp.nextInt();
         chinese_zodiac= (birth_year % 12);
-        horoscope=chinese_zodiac;
 
-        switch (horoscope){
+        switch (chinese_zodiac){
             case 0:
                 System.out.println("Monkey");
                 break;
@@ -42,6 +41,9 @@ public class chineseZodiac {
                 break;
             case 11:
                 System.out.println("Sheep");
+                break;
+            default:
+                System.out.println("There is a problem");
                 break;
         }
     }
