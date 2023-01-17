@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="zodiac signs">
-      <change afterPath="$PROJECT_DIR$/src/PlaneTicketPrice.java" afterDir="false" />
+    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="Plane ticket pride calculation">
+      <change afterPath="$PROJECT_DIR$/src/chineseZodiac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673969580532</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Plane ticket pride calculation">
+      <created>1673975969924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673975969924</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +107,7 @@
     <MESSAGE value="Second commit" />
     <MESSAGE value="Java project for sorting 3 numbers" />
     <MESSAGE value="zodiac signs" />
-    <option name="LAST_COMMIT_MESSAGE" value="zodiac signs" />
+    <MESSAGE value="Plane ticket pride calculation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Plane ticket pride calculation" />
   </component>
 </project>
