@@ -2,8 +2,10 @@ import java.util.Scanner;
 
 public class divide3and4 {
     public static void main(String[] args) {
-        int num,avg=0;
-        int sum =0,count=0;
+        int num;
+        int sum = 0;
+        int count = 0;
+        int avg = 0;
 
 
         Scanner inp = new Scanner(System.in);
