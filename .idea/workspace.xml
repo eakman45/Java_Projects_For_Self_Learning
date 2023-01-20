@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="check if our number is a multiple of 4 and sum them until an odd number entered.">
+    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="shows the power of 4 and 5 smaller than input">
+      <change afterPath="$PROJECT_DIR$/src/factorialNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674180572806</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="shows the power of 4 and 5 smaller than input">
+      <created>1674182715036</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674182715036</updated>
+    </task>
+    <task id="LOCAL-00012" summary="shows the power of 4 and 5 smaller than input">
+      <created>1674182902149</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674182902149</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +170,7 @@
     <MESSAGE value="chinese zodiac signs based on birth year input" />
     <MESSAGE value="from zero to input n ,takes avg of the sum of nums divisible by both 3 and 4" />
     <MESSAGE value="check if our number is a multiple of 4 and sum them until an odd number entered." />
-    <option name="LAST_COMMIT_MESSAGE" value="check if our number is a multiple of 4 and sum them until an odd number entered." />
+    <MESSAGE value="shows the power of 4 and 5 smaller than input" />
+    <option name="LAST_COMMIT_MESSAGE" value="shows the power of 4 and 5 smaller than input" />
   </component>
 </project>
