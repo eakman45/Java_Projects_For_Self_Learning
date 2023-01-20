@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="from zero to input n ,takes avg of the sum of nums divisible by both 3 and 4">
-      <change afterPath="$PROJECT_DIR$/src/untilOdd.java" afterDir="false" />
+    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="check if our number is a multiple of 4 and sum them until an odd number entered.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674133649130</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="check if our number is a multiple of 4 and sum them until an odd number entered.">
+      <created>1674180572806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674180572806</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +154,7 @@
     <MESSAGE value="Plane ticket pride calculation" />
     <MESSAGE value="chinese zodiac signs based on birth year input" />
     <MESSAGE value="from zero to input n ,takes avg of the sum of nums divisible by both 3 and 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="from zero to input n ,takes avg of the sum of nums divisible by both 3 and 4" />
+    <MESSAGE value="check if our number is a multiple of 4 and sum them until an odd number entered." />
+    <option name="LAST_COMMIT_MESSAGE" value="check if our number is a multiple of 4 and sum them until an odd number entered." />
   </component>
 </project>
