@@ -5,20 +5,20 @@ public class rpowerofn {
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the base = ");
-        int k = scan.nextInt();
-        System.out.println("Exponential");
         int n = scan.nextInt();
+        System.out.println("Exponential");
+        int r = scan.nextInt();
 
         int counter = 1;
         int total = 1;
 
         //3^4 = 3 * 3 * 3 * 3;
 
-        while(counter <= n){
-            total=total * k;
+        while(counter <= r){
+            total=total * n;
             counter++;
         }
 
-        System.out.println(k+" to the power of "+n+" is = "+total);
+        System.out.println(n+" to the power of "+r+" is = "+total);
     }
 }
