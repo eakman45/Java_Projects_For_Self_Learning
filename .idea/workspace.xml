@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="n to the power of r">
+    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="how to take digit values one by one.">
+      <change afterPath="$PROJECT_DIR$/src/harmonicMean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674226040800</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="n to the power of r">
+      <created>1676844793101</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676844793101</updated>
+    </task>
+    <task id="LOCAL-00017" summary="how to take digit values one by one.">
+      <created>1676844853892</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676844853892</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +223,7 @@
     <MESSAGE value="r combination of n" />
     <MESSAGE value="r power of n" />
     <MESSAGE value="n to the power of r" />
-    <option name="LAST_COMMIT_MESSAGE" value="n to the power of r" />
+    <MESSAGE value="how to take digit values one by one." />
+    <option name="LAST_COMMIT_MESSAGE" value="how to take digit values one by one." />
   </component>
 </project>
