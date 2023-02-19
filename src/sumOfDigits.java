@@ -6,12 +6,12 @@ public class sumOfDigits {
         System.out.println("Enter a number :");
         int myNum= myInput.nextInt();
         int tempValue;
-        int digitValue,result=0;
+        int digitValues,result=0;
 
         tempValue=myNum;
         while(tempValue != 0){
-            digitValue= tempValue % 10;
-            result+=digitValue;
+            digitValues= tempValue % 10;
+            result+=digitValues;
             tempValue /= 10;
         }
         System.out.print("Sum of the digit values of given number is = ");
