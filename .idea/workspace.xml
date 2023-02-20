@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="perfect number calculator">
+    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="reverse triangle.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/harmonicMean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/harmonicMean.java" afterDir="false" />
     </list>
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676914244983</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="reverse triangle.">
+      <created>1676915516613</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676915516613</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +281,7 @@
     <MESSAGE value="Greatest and least common divisor" />
     <MESSAGE value="end" />
     <MESSAGE value="perfect number calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="perfect number calculator" />
+    <MESSAGE value="reverse triangle." />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse triangle." />
   </component>
 </project>
