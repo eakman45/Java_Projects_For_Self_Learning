@@ -24,9 +24,19 @@ public class gcd_lcm {
                 }
                 System.out.println("Greatest common divisor is : "+gcd);
                 lcm = (n1*n2) /gcd;
-                System.out.println("Least common divisor is : "+lcm);
-            }else{
-                System.out.println("N1 should be bigger than N2!");
+                System.out.println("Least common multiple is : "+lcm);
+            }
+            else{
+                while(d<=n2){
+                    if(n1%d==0 && n2%d==0){
+                        gcd=d;
+                    }
+                    d++;
+                }
+                System.out.println("Greatest common divisor is : "+gcd);
+                lcm = (n1*n2) /gcd;
+                System.out.println("Least common multiple is : "+lcm);
+
             }
 
         }
