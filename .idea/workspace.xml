@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="prime numbers.">
+    <list default="true" id="5a0c2ab6-1436-4d1e-afde-a7698dd6ac2a" name="Changes" comment="palindrom number check.">
+      <change afterPath="$PROJECT_DIR$/src/palindrom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/harmonicMean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/harmonicMean.java" afterDir="false" />
     </list>
@@ -59,6 +60,13 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration name="PlaneTicketPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlaneTicketPrice" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="rpowerofn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rpowerofn" />
       <module name="Java101" />
@@ -68,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlaneTicketPrice" />
         <item itemvalue="Application.rpowerofn" />
       </list>
     </recent_temporary>
@@ -256,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676919473781</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fibonacci sequence.">
+      <created>1676941701418</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1676941701419</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +306,8 @@
     <MESSAGE value="perfect number calculator" />
     <MESSAGE value="reverse triangle." />
     <MESSAGE value="prime numbers." />
-    <option name="LAST_COMMIT_MESSAGE" value="prime numbers." />
+    <MESSAGE value="fibonacci sequence." />
+    <MESSAGE value="palindrom number check." />
+    <option name="LAST_COMMIT_MESSAGE" value="palindrom number check." />
   </component>
 </project>
