@@ -11,7 +11,7 @@ public class palindrom {
             Using reverse number we can reverse the entered number.
             */
             reverseNumber = (reverseNumber*10)+lastDecimal;
-            //to last digit.
+            //to remove last digit.
             temp /= 10;
         }
         return reverseNumber == number;
