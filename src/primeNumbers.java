@@ -8,7 +8,7 @@ public class primeNumbers {
                 if(i%j==0){
                     counter++;
                 }
-
+                // STOPSHIP: 22.02.2023
             }
             if(counter==2){
                 System.out.print(" "+i);
